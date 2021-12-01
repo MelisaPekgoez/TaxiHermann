@@ -93,4 +93,13 @@ body {
   background-color: DarkSalmon;
   color: white;
 }
+    footer {
+        position: right center;
+        left: 0px;
+        bottom: 0px;
+        width: 65%;
+        color: black;
+        text-align: left;
+      }
+}
 }
