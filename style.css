@@ -10,6 +10,9 @@ body {
 .nav {
     background-color:	#eee8cd;
     color: black;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
 }
 
 .nav ul {
@@ -29,8 +32,11 @@ body {
 
 .nav ul li:hover {
     background-color:white;
-
+.nav {
+    postition: sticky;
+    
 }
+    
 .centered-container {
     max-width: 1050px;
     margin: 0px auto;
