@@ -32,9 +32,6 @@ body {
 
 .nav ul li:hover {
     background-color:white;
-.nav {
-    postition: sticky;
-    
 }
     
 .centered-container {
